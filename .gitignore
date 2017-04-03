@@ -1,0 +1,12 @@
+**/__pycahce__/
+*egg-info/
+*.py[cod]
+
+.ipynb_checkpoints/
+
+models/*
+!models/.keep
+
+resources/*
+!resources/.keep
+!resources/eagle.jpg
